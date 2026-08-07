@@ -1,76 +1,79 @@
+#define pb push_back
 class Solution {
+    using ll = long long;
 public:
-    typedef long long ll;
 
-    string freeSlotsFiller(ll required, int length) {
-        string str;
-
-        for(int digit = 9; digit >= 2; digit--) {
-            while(required % digit == 0) {
-                str.push_back(digit + '0');
-                required /= digit;
+    bool checkpf(ll t)
+    {
+        vector<int> a = {2,3,5,7};
+        for(int k =0; k<4; k++)
+        {
+            while(t % a[k] == 0)
+            {
+                t/=a[k];
             }
         }
 
-        while(str.length() < length) {
-            str.push_back('1');
-        }
-
-        reverse(begin(str), end(str));
-
-        return str;
+        return t==1;
     }
 
-    string smallestNumber(string num, long long t) {
-        int n = num.length();
-
-        ll temp = t;
-        for(int primeFact : {2, 3, 5, 7}) {
-            while(temp % primeFact == 0) {
-                temp /= primeFact;
+    string fillspace(int space , ll req)
+    {
+        string s = "";
+        for(int d = 9 ; d>=2; d--)
+        {
+            while(req % d == 0)
+            {
+                s.pb(d+'0');
+                req/=d;
             }
         }
 
-        if(temp != 1) {
-            return "-1";
+        while((int)s.size() < space)
+        {
+            s.pb('1');
         }
+        reverse(s.begin(),s.end());
+        return s;
+    }
 
+    string smallestNumber(string num, ll t) 
+    {
+        bool ok = true;
+        ok = checkpf(t);
+        if(!ok) return "-1";
         
-        vector<ll> remainingFactor(n+1, t);
-        for(int i = 0; i < n; i++) {
-            int digit = num[i] - '0';
-
-            if(digit == 0) {
-                break;
-            }
-
-            remainingFactor[i+1] = remainingFactor[i]/gcd(remainingFactor[i], (ll)digit);
+        int n = (int)num.size();
+        vector<ll> rem(n+1,t);
+        for(int i=0; i<n; i++) 
+        {
+            int d = num[i]-'0';
+            if(d == 0) break;
+            rem[i+1] = rem[i]/gcd(rem[i],(ll)d);
         }
+        if(rem[n] == 1) return num;
 
-        if(remainingFactor[n] == 1) { //the input itself is sufficient for t
-            return num;
-        }
+        int start = num.find('0');
+        if(start == string::npos) start = n-1;
+        for(int i =start; i>=0; i--) 
+        {
+            ll req = rem[i];
+            int space = n-i;
 
-        int zeroPos = num.find('0');
-        int zeroIdx = n-1;
-        if(zeroPos != -1) {
-            zeroIdx = zeroPos;
-        }
+            for(int d = (num[i]-'0')+1; d <= 9; d++) 
+            {
+                ll newreq = req / gcd(req,d);
+                string r = fillspace(space-1,newreq);
 
-        for(int i = zeroIdx; i >= 0; i--) {
-            ll required = remainingFactor[i];
-            int freeSlots = n - 1 - i;
-
-            for(int digit = (num[i] - '0')+1; digit <= 9; digit++) {
-                ll furtherRequired = required / gcd(required, digit);
-                string requiredNumber = freeSlotsFiller(furtherRequired, freeSlots);
-
-                if(requiredNumber.length() == freeSlots) {
-                    return num.substr(0, i) + char(digit + '0') + requiredNumber;
+                if((int)r.size() == space-1) 
+                {
+                    string ans = num.substr(0,i);
+                    ans.push_back(d+'0');
+                    ans += r;
+                    return ans;
                 }
             }
         }
-
-        return freeSlotsFiller(t, n+1); 
+        return fillspace(n+1,t); 
     }
 };
