@@ -1,47 +1,31 @@
 class Solution {
 public:
-    int n;
-    int func(int idx , int m ,int turn, vector<int> &piles, vector<int> &prefSum , vector<vector<vector<int>>> &dp)
+    int solve(int i, int m, vector<int> &pref, vector<int>& piles, vector<vector<int>>& dp)
     {
-            if(idx >= n) return 0;
-		    //idx to idx+x
+        int n = (int)piles.size();
+        if(i>=n)
+        {
+            return 0;
+        }
 
-            if(dp[idx][m][turn] != -1) return dp[idx][m][turn];
-		    if(turn) 
-            {
-	            int best = 0;
-                for(int x =1 ; x<=2*m; x++)
-                {
-                    int curr ;
-                    if(idx+x < n ) curr = prefSum[idx+x] - prefSum[idx];
-                    else curr = prefSum[n] - prefSum[idx];
-                    best = max(best , curr + func(idx+x , max(m,x) , !turn , piles,prefSum,dp));
-                }
-                return dp[idx][m][turn] = best;
-            }
-            else 
-            {   
-	            int best = INT_MAX;
-                for(int x =1 ; x<=2*m; x++)
-                {
-                    // if(idx+x < n ) curr = prefSum[idx+x] - prefSum[idx];
-                    // else curr = prefSum[n] - prefSum[idx];
-                    best = min(best , func(idx+x , max(m,x) , !turn , piles,prefSum,dp));
-                }
-                return dp[idx][m][turn] = best;
-            }
+        if(dp[i][m] != -1) return dp[i][m];
+        int best =0;
+        for(int x = 1; x<=2*m; x++)
+        {
+            best = max(best , pref[n]-pref[i] - solve(i+x,max(m,x),pref,piles,dp));
+        }
+
+        return dp[i][m]=best;
     }
 
-    int stoneGameII(vector<int>& piles) 
-    {
-        n = piles.size();
-	    vector<vector<vector<int>>> dp(n,vector<vector<int>> (n+1,vector<int> (2,-1)));
-	    int turn = 1;
-	    vector<int> prefSum(n+1,0);
-        for(int i =1; i<=n ; i++)
+    int stoneGameII(vector<int>& piles) {
+        int n = piles.size();
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        vector<int> pref(n+1,0);
+        for(int i =0; i<n; i++)
         {
-            prefSum[i]=prefSum[i-1]+piles[i-1];
+            pref[i+1] = pref[i] + piles[i];
         }
-	    return func(0,1,turn,piles,prefSum,dp);
+        return solve(0,1,pref,piles,dp);
     }
 };
