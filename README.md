@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/iHamza14/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/iHamza14/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/iHamza14/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/iHamza14/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iHamza14/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iHamza14/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iHamza14/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/iHamza14/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 <!---LeetCode Topics End-->
