@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1510-stone-game-iv](https://github.com/iHamza14/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iHamza14/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iHamza14/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iHamza14/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/iHamza14/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
@@ -157,9 +159,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iHamza14/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iHamza14/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
