@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/iHamza14/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iHamza14/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/iHamza14/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iHamza14/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
