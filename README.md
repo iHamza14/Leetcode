@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
+| [1340-jump-game-v](https://github.com/iHamza14/Leetcode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/iHamza14/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iHamza14/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/iHamza14/Leetcode/tree/master/1872-stone-game-viii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
+| [1340-jump-game-v](https://github.com/iHamza14/Leetcode/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/iHamza14/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/iHamza14/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/iHamza14/Leetcode/tree/master/1872-stone-game-viii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/iHamza14/Leetcode/tree/master/1340-jump-game-v) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iHamza14/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
