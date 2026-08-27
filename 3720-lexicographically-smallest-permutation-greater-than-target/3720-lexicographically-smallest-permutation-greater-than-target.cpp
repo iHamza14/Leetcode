@@ -1,43 +1,30 @@
 class Solution {
 public:
     string lexGreaterPermutation(string s, string target) {
-        map<char,int> mpp;
-        for(auto i : s) mpp[i]++;
+        multiset<char> ms;
+        for(auto i : s) ms.insert(i);
 
-        string ans = "";
+        vector<string> ans;
+        string prev = "";
         for(auto i : target)
         {
-            if(mpp[i]>0)
+            auto it = ms.upper_bound(i);
+            if(it != ms.end())
             {
-                ans.push_back(i);
-                mpp[i]--;
+                auto get = *it;
+                auto temp = prev;
+                temp.push_back(get);
+                ms.erase(it);
+                for(auto j : ms) temp.push_back(j);
+                ans.push_back(temp);
+                ms.insert(get);
             }
-            else
-            {
-                auto it = mpp.upper_bound(i);
-                auto c = (*it).first;
-                if(it == mpp.end()) 
-                {
-                    return "";
-                }
-                else
-                {
-                    ans.push_back(c);
-                    mpp[c]--;
-                    break;
-                }
-            }
+            auto same = ms.find(i);
+            if(same == ms.end()) break;
+            prev.push_back(*same);
+            ms.erase(same);
         }
-        for(auto i : mpp)
-        {
-            while(mpp[i.first]>0)
-            {
-                ans.push_back(i.first);
-                mpp[i.first]--;
-            }
-        }
-
-        if(ans==target) return "";
-        return ans;
+        if(ans.empty()) return "";
+        return *min_element(ans.begin(),ans.end());
     }
 };
