@@ -58,10 +58,10 @@ public:
 
         vector<int> ans(n);
 
-        for(auto [r,v] : mpp)
+        for(auto [r,a] : mpp)
         {
             vector<int> temp;
-            for(auto i : v)
+            for(auto i : a)
             {
                 temp.push_back(nums[i]);
             }
@@ -69,7 +69,7 @@ public:
             sort(temp.begin(),temp.end());
 
             int c =0;
-            for(auto i : v)
+            for(auto i : a)
             {
                 ans[i] = temp[c++];
             }
