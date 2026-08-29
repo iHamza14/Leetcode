@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/iHamza14/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iHamza14/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iHamza14/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iHamza14/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iHamza14/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iHamza14/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/iHamza14/Leetcode/tree/master/1340-jump-game-v) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iHamza14/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iHamza14/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/iHamza14/Leetcode/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iHamza14/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
