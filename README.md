@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/iHamza14/Leetcode/tree/master/0835-image-overlap) |
 | [1105-filling-bookcase-shelves](https://github.com/iHamza14/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/iHamza14/Leetcode/tree/master/1340-jump-game-v) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/iHamza14/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/iHamza14/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
