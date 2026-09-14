@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/iHamza14/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1510-stone-game-iv](https://github.com/iHamza14/Leetcode/tree/master/1510-stone-game-iv) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/iHamza14/Leetcode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/iHamza14/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
