@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/iHamza14/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/iHamza14/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/iHamza14/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/iHamza14/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/iHamza14/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/iHamza14/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/iHamza14/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/iHamza14/Leetcode/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
