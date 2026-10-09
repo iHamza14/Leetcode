@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iHamza14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/iHamza14/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iHamza14/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iHamza14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/iHamza14/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iHamza14/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/iHamza14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iHamza14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/iHamza14/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iHamza14/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/iHamza14/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iHamza14/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iHamza14/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/iHamza14/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iHamza14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iHamza14/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
@@ -324,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iHamza14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iHamza14/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iHamza14/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
