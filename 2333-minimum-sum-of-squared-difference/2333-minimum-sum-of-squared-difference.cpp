@@ -9,15 +9,15 @@ public:
             a.push_back(abs(nums1[i]-nums2[i]));
         }
         
-        sort(a.rbegin(),a.rend());
+        // sort(a.rbegin(),a.rend());
 
         map<ll,ll> mpp;
         for(auto i : a)
         {
             mpp[i]++;
-            cout<<i<<" ";
+            // cout<<i<<" ";
         }
-        cout<<endl;
+        // cout<<endl;
         ll k = k1+k2;
         while(k>0)
         {
