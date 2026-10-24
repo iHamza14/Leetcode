@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iHamza14/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iHamza14/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/iHamza14/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iHamza14/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1386-cinema-seat-allocation](https://github.com/iHamza14/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iHamza14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iHamza14/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iHamza14/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iHamza14/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
