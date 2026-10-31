@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/iHamza14/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iHamza14/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iHamza14/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/iHamza14/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iHamza14/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iHamza14/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/iHamza14/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/iHamza14/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iHamza14/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iHamza14/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iHamza14/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/iHamza14/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/iHamza14/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/iHamza14/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Geometry
 |  |
 | ------- |
