@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iHamza14/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/iHamza14/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/iHamza14/Leetcode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/iHamza14/Leetcode/tree/master/1201-ugly-number-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iHamza14/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/iHamza14/Leetcode/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/iHamza14/Leetcode/tree/master/0835-image-overlap) |
 | [1105-filling-bookcase-shelves](https://github.com/iHamza14/Leetcode/tree/master/1105-filling-bookcase-shelves) |
